@@ -1,13 +1,3 @@
 # 前端面试
 
-## html & css基础
-
-## js基础语法
-
-## js-web-api
-
-## 开发环境
-
-## 运行环境
-
-## http协议
+请移步至[issues](https://github.com/xiawei0725/fronted_interview/issues)查看面试知识点相关总结
